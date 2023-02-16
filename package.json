@@ -1,0 +1,23 @@
+{
+  "name": "basic-nodejs-informational-website",
+  "version": "1.0.0",
+  "description": "This is a simple NodeJs informational website, keep in my mind this is my first try to do so.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohaCodes/basic-nodejs-informational-website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohaCodes/basic-nodejs-informational-website/issues"
+  },
+  "homepage": "https://github.com/mohaCodes/basic-nodejs-informational-website#readme",
+  "devDependencies": {
+    "express": "^4.18.2"
+  }
+}
